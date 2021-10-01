@@ -2,11 +2,12 @@
 
 ## Steps For Contribution
 
-    1. Fork this repo
-    2. Star this repo
-    3. Add your github username
-    4. commit the code
-    5. Make pull request
+- Follow [FayasNoushad](https://github.com/FayasNoushad)
+- Star this repository
+- Fork this repository
+- Add your github username
+- Commit the code
+- Make pull request
 
 ---
 
